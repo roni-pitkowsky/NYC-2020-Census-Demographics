@@ -14,6 +14,7 @@
     - 🌐 View on Tableau Public → [NYC 2020 Census Demographics](https://public.tableau.com/app/profile/roni.pitkowsky/viz/NYC2020CensusDemographics/IntroDashboard)
     - 💾 Download the .twbx file → [NYC 2020 Census Demographics.twbx](https://github.com/roni-pitkowsky/NYC-2020-Census-Demographics/blob/main/NYC%202020%20Census%20Demographics.twbx)
 2. Interact with the Dashboard
-    - 🔄 Use the Filter & Search buttons to refine insights.
-    - 🖱️ Click on chart elements (e.g., department) for dynamic drill-downs.
-    - ⏩ Switch between Summary and Details views with the navigation panel.
+    - ➡️ Click 'Go to map'
+    - ✅ Use the Group Selection drop down menu to select a group.
+    - 🖱️ Hover over a census tract to read more information about the tract.
+    - ⏩ Switch between different groups using the dropdown menu.
