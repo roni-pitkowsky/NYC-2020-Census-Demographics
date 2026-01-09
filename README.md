@@ -7,9 +7,15 @@
 </p>
 
 # 📌 Project Overview
+The 2020 Census introduced significant improvements in data collection, including detailed write-in options for racial and ethnic groups like White,
+Black or African American, and Some Other Race. These updates enabled the tabulation of over 1,500 racial and ethnic groups—six times more than
+the 2010 Census.
 
+This enhanced data collection captures the diversity of NYC neighborhoods (NTAs) with unprecedented granularity. The census now provides counts
+or detailed groups such as Congolese, Brazilian, and Middle Eastern, alongside established categories like Hispanic or Latino. It also marks the first
+release of regional data for groups like Sub—Saharan African and Polynesian populations. 
 # 📂 Dataset
-The dataset used  
+The dataset used was from the NYC Department of City Planning.
 👉 [Access the dataset here](https://github.com/roni-pitkowsky/NYC-2020-Census-Demographics/blob/main/nyc_detailed-race-and-ethnicity-data_2020_core-geographies.xlsx)
 <!-- # 💼 Executive Summary -->
 <!-- Include larger images here -->
