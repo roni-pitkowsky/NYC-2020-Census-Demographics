@@ -1,4 +1,4 @@
-<!-- Based on: https://github.com/HartoniAgungPermana/tableau-hr-analytics-dashboard?tab=readme-ov-file -->
+<!-- Inspired by: https://github.com/HartoniAgungPermana/tableau-hr-analytics-dashboard?tab=readme-ov-file -->
 
 # NYC 2020 Census-Demographics
 ### [🌐 View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/roni.pitkowsky/viz/NYC2020CensusDemographics/IntroDashboard)
