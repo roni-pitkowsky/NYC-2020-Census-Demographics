@@ -14,7 +14,7 @@ the 2010 Census.
 This enhanced data collection captures the diversity of NYC neighborhoods (NTAs) with unprecedented granularity. The census now provides counts
 or detailed groups such as Congolese, Brazilian, and Middle Eastern, alongside established categories like Hispanic or Latino. It also marks the first
 release of regional data for groups like Sub—Saharan African and Polynesian populations. 
-# 📂 Dataset
+# 📂 Datasets
 The datasets used were provided by the NYC Department of City Planning.<br/>
 🌆 [Census Demographics](https://github.com/roni-pitkowsky/NYC-2020-Census-Demographics/blob/main/nyc_detailed-race-and-ethnicity-data_2020_core-geographies.xlsx)<br/>
 🗺️ [Census Tracts](https://www.nyc.gov/content/planning/pages/resources/datasets/census-tracts)
