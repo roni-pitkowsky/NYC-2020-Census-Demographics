@@ -25,8 +25,8 @@ The datasets used were provided by the NYC Department of City Planning.<br/>
 <img width="1199" height="599" alt="Uzbek Map Dashboard" src="https://github.com/user-attachments/assets/34eb0f5b-209f-47b4-be04-aecb8f1b1002" />
 -->
 # 🖥️ Tools & Technologies
-- **Tableau:** Used for all data visualization, dashboarding, and interactivity.
-- **Python:** Utilized for data cleaning, manipulation and preparation for vizz.
+- **Tableau:** Designed and developed interactive dashboards and visualizations.
+- **Python:** Performed data cleaning, transformation, and preparation for analysis.
 
 # 🖥️ How to Use
 1. Access the Dashboard
